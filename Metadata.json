@@ -1,0 +1,20 @@
+{
+    "Author": "Eamon O Reilly",
+    "ContentSize": 6249,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/send-a-mail-of-password-about-to-expire-in-azure-ad-using-azure-automation/master/Send-Office365PasswordNotification.ps1",
+    "DownloadCount": 2237,
+    "Id": "Send-a-mail-of-password-47f683ef",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 96,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-10-15T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Azure Automation runbook looks up a user in Azure active directory and determines if their password is about to expire. If it is, it can optionally send an email to the user. You need to import the MSOnline module from the Automation module gallery.",
+    "Title": "Send a mail of password about to expire in Azure AD using Azure Automation",
+    "UpdatedDate": "2017-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/send-a-mail-of-password-about-to-expire-in-azure-ad-using-azure-automation",
+    "UserTags": "Office 365, Azure Automation"
+}
